@@ -1,10 +1,4 @@
 # KF-EKF
-├── include/
-│   └── TrackingFilters.hpp  # Filter implementations
-├── src/
-│   └── main.cpp             # Usage example
-├── CMakeLists.txt
-└── README.md
 
 This README includes:
 1. Contextual alignment with the original paper
