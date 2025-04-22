@@ -1,0 +1,6 @@
+├── include/
+│   └── TrackingFilters.hpp  # Filter implementations
+├── src/
+│   └── main.cpp             # Usage example
+├── CMakeLists.txt
+└── README.md
